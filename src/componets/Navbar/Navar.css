@@ -1,0 +1,35 @@
+.nav-container {
+    position: sticky;
+    z-index: 3;
+    top: 0;
+  }
+  .navbar {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-content: space-between;
+    height: 15vh;
+    background-color: #000000;
+  }
+  .navbar a {
+    text-decoration: none;
+  }
+  
+  .navbar-text {
+    justify-self: center;
+    color: #ffffff;
+    margin-top: 4vh;
+    cursor: pointer;
+  }
+  
+  .seeCarrito {
+    font-size: 25px;
+    margin-right: 20px;
+    margin-top: 4vh;
+    cursor: pointer;
+    text-decoration: none;
+    justify-self: end;
+  }
+  .navbar img{
+ 
+    width: 30%;
+  }

@@ -1,0 +1,42 @@
+[
+    {
+        "id":1,
+        "name": "taza",
+        "price":90,
+        "img": "images/taza.jpg"
+        
+
+    },
+    {
+       " id":2,
+       "name": "taza glitter silver",
+       "price":90,
+        "img":"images/taza.jpg"
+        
+
+    },
+    {
+        "id":3,
+        "name": "taza glitter rosa",
+        "price":90,
+        "img":"images/taza.jpg"
+        
+
+    },
+    {
+        "id":4,
+        "name": "taza fondo negro",
+        "price":90,
+        "img":"images/taza.jpg"
+        
+
+    },
+    {
+        "id":5,
+        "name": "cilindro",
+        "price":90,
+        "img":"images/taza.jpg"
+        
+
+    }
+]
